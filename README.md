@@ -84,7 +84,7 @@ Through this project, I learned how to:
 
 ## 📊 Dashboard Preview
 
-Screenshot 2026-05-23 7.32.15 PM.png)
+https://github.com/DebbyGold1/Student-Data-Analysis/blob/main/Screenshot%202026-05-23%207.32.15%20PM.png
 ```
 
 ---
