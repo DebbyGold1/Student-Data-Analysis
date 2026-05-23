@@ -85,7 +85,7 @@ Through this project, I learned how to:
 ## 📊 Dashboard Preview
 
 https://github.com/DebbyGold1/Student-Data-Analysis/blob/main/Screenshot%202026-05-23%207.32.15%20PM.png
-```
+
 
 ---
 
